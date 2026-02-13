@@ -1,16 +1,27 @@
-# photobooth
+# 📸 PhotoBooth – Flutter Camera App
 
-A new Flutter project.
+A simple Android camera application built using Flutter.
 
-## Getting Started
+## 🚀 Features
+- Live camera preview
+- Capture photos
+- Clean UI
+- Android support
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Camera plugin
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 How to Run
+flutter pub get  
+flutter run  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚 What I Learned
+- Camera integration in Flutter
+- Permission handling
+- UI structuring
+- Basic app architecture
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👩‍💻 Author
+Nashra Sania
